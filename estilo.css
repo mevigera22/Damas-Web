@@ -1,0 +1,13 @@
+body{
+	width: auto;
+	display:grid;
+	justify-content: center;
+	align-items: center;
+	background: #0F2027;  
+	background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  
+	background: linear-gradient(to right, #2C5364, #203A43, #0F2027); 
+	color: white;
+}
+h3 {
+	text-decoration:underline;
+}
